@@ -6,7 +6,7 @@ I'll be Using this repo to store my experimentation scripts while learning ,and 
 - [x]  HTML, CSS
 - [x]  Git
 - [x]  Python
-- [ ]  Django
+- [X]  Django
 - [ ]  SQL, Models, and Migrations
 - [ ]  JavaScript
 - [ ]  User Interfaces
