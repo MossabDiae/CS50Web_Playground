@@ -7,7 +7,7 @@ I'll be Using this repo to store my experimentation scripts while learning ,and 
 - [x]  Git
 - [x]  Python
 - [X]  Django
-- [ ]  SQL, Models, and Migrations
+- [X]  SQL, Models, and Migrations
 - [ ]  JavaScript
 - [ ]  User Interfaces
 - [ ]  Testing, CI/CD
